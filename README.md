@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <h3>Hosting/SaaS:</h3> 
 
-<img src="https://img.shields.io/badge/AWS-%25230072C6.svg?style=for-the-badge&logo=AWS-devops&logoColor=white/>
+<img src="https://img.shields.io/badge/AWS-%25230072C6.svg?style=for-the-badge&logo=AWS-devops&logoColor=white"/>
 <h3>Databases:</h3> 
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
