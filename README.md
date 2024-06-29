@@ -2,13 +2,11 @@
 
 <h2> 🙌🏻 About Me</h2>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m a **Customer Engineer** at **BrowserStack**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working on **Product Demonstration**.
 
-- 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
-
-- 👯 I’m looking to collaborate on **Open Source and Web dev** 
+- 🎓 Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering.
 
 - 📫 
  How to reach me:<ul> <li >*Gmail:yashvisatam14@gmail.com</li><li>Linkedin: https://www.linkedin.com/in/yashvisatam1403/</li></ul>*</li></ul>
